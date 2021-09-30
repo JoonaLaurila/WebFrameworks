@@ -1,0 +1,26 @@
+.backGroundcolor{
+    background-color:grey;
+    
+}
+
+.container{
+    display: flex; 
+    margin-left: 1400px;
+    gap: 20px;
+    padding: 14px;
+    margin-top: -100;
+    
+
+
+}
+
+.number{
+    font-size: 25px;
+    color: rgb(65, 150, 165);
+    font-weight: 700;
+}
+
+.topic{
+    font-weight: 700;
+    
+}

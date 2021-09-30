@@ -1,0 +1,20 @@
+.backGroundcolor{
+    background-color:white;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.header{
+    font-size: 30px;
+    font-weight: 700;
+    align-items: center;
+
+}
+
+.header2{
+    color: rgb(0, 81, 141);
+}
