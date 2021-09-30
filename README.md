@@ -1,2 +1,2 @@
 # WebFrameworks
-Exercises:1,2,3
+Exercises:1,2
